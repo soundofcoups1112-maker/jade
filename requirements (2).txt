@@ -1,5 +1,0 @@
-flask
-groq
-gunicorn
-tavily-python
-requests
